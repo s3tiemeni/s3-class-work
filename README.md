@@ -4,3 +4,4 @@ vdsbvbvbv
 v bvd bvdv bv
 ls -l
 uname
+cat /etc/*release
