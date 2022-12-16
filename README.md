@@ -2,3 +2,5 @@
 csv.,/csvcd"bcd'
 vdsbvbvbv
 v bvd bvdv bv
+ls -l
+uname
